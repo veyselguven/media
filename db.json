@@ -1,5 +1,38 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Carlos Ratke",
+      "id": 2
+    },
+    {
+      "name": "Gretchen Auer",
+      "id": 3
+    },
+    {
+      "name": "Morris Cruickshank",
+      "id": 4
+    },
+    {
+      "name": "Dr. Dennis Gutkowski",
+      "id": 5
+    },
+    {
+      "name": "Micheal Collier Jr.",
+      "id": 6
+    },
+    {
+      "name": "Roberto Denesik",
+      "id": 7
+    },
+    {
+      "name": "Sophia Heidenreich",
+      "id": 8
+    }
+  ],
   "albums": [],
   "photos": []
 }
