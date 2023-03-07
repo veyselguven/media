@@ -1,28 +1,20 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Eunice Schultz",
+      "name": "Ms. Edgar Glover I",
       "id": 2
     },
     {
-      "name": "Theodore Hoeger",
+      "name": "Sam Lakin",
       "id": 3
     },
     {
-      "name": "Ms. Melvin Durgan",
+      "name": "Teresa Hammes DDS",
       "id": 4
     },
     {
-      "name": "Terence Padberg",
+      "name": "Saul Reinger",
       "id": 5
-    },
-    {
-      "name": "Louise Wisozk",
-      "id": 6
     }
   ],
   "albums": [],
